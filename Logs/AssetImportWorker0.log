@@ -1008,3 +1008,124 @@ Received Import Request.
 Start importing Assets/External Assets/Ian´s Assets/Dragon Gate/Materials/Dragon Gate/yummie.jpg using Guid(032e41e6605e3c645a216b0246e20c13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bc3c721ea29fadcbb6d165fe5c19c52') in 0.020121 seconds 
   Import took 0.027163 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1183.585890 seconds.
+  path: Assets/External Assets/Nacho´s Assets 2/Stronghold.fbx
+  artifactKey: Guid(a97ea08d9773ccd4a89a4ef437fa5415) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/Nacho´s Assets 2/Stronghold.fbx using Guid(a97ea08d9773ccd4a89a4ef437fa5415) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6ef137462972746f045d399fea3fbc4') in 0.173065 seconds 
+  Import took 0.179011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 393.031856 seconds.
+  path: Assets/External Assets/Nacho´s Assets 2/textures/texture_building.jpeg
+  artifactKey: Guid(e980f2e082d3a384698b054446609590) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/Nacho´s Assets 2/textures/texture_building.jpeg using Guid(e980f2e082d3a384698b054446609590) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bf16486a867e99e790142e9bdbec8dd') in 0.020021 seconds 
+  Import took 0.026482 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/External Assets/Nacho´s Assets 2/textures/texture_sand.jpeg
+  artifactKey: Guid(bc376667c63fa354289c34e4dfa0498d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/Nacho´s Assets 2/textures/texture_sand.jpeg using Guid(bc376667c63fa354289c34e4dfa0498d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '607c190b31f05d5ccfbbc28fd0f89616') in 0.022946 seconds 
+  Import took 0.029700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/External Assets/Nacho´s Assets 2/textures/texture_building_bumpmap.jpg
+  artifactKey: Guid(73e92369fbdc42149b88ef7f1bcfe5f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/Nacho´s Assets 2/textures/texture_building_bumpmap.jpg using Guid(73e92369fbdc42149b88ef7f1bcfe5f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '838f0b828ee441566e8a050e140898bb') in 0.028694 seconds 
+  Import took 0.038026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000510 seconds.
+  path: Assets/External Assets/Nacho´s Assets 2/textures/texture_building_specular.jpg
+  artifactKey: Guid(a3af723099facd045b597cf991208194) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/Nacho´s Assets 2/textures/texture_building_specular.jpg using Guid(a3af723099facd045b597cf991208194) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57649ec4d3ab03bfc5eadee3a0848cb9') in 0.022111 seconds 
+  Import took 0.028134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Assets/External Assets/Nacho´s Assets 2/textures/texture_building_opacity.jpeg
+  artifactKey: Guid(042bd1028120be3499a0156512c63f4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/Nacho´s Assets 2/textures/texture_building_opacity.jpeg using Guid(042bd1028120be3499a0156512c63f4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0788135ef43cafd5c88e785c1485b0e') in 0.023246 seconds 
+  Import took 0.029590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000438 seconds.
+  path: Assets/External Assets/Nacho´s Assets 2/textures/texture_sea_opacity.jpeg
+  artifactKey: Guid(3e689e301042a9649844c191e1f9f1ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/Nacho´s Assets 2/textures/texture_sea_opacity.jpeg using Guid(3e689e301042a9649844c191e1f9f1ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b6ebd1938684ca27aeb9112268549a1') in 0.029803 seconds 
+  Import took 0.037398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000617 seconds.
+  path: Assets/External Assets/Nacho´s Assets 2/textures/texture_sea.jpeg
+  artifactKey: Guid(4edd7578eadc5264e91c7f416cd45e53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/Nacho´s Assets 2/textures/texture_sea.jpeg using Guid(4edd7578eadc5264e91c7f416cd45e53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '768e6a0882492c65f306449b5eb08244') in 0.020432 seconds 
+  Import took 0.027831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/External Assets/Nacho´s Assets 2/textures/texture_environment.jpg
+  artifactKey: Guid(360d5a090057e6c4abb8cdfd2f690fc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/Nacho´s Assets 2/textures/texture_environment.jpg using Guid(360d5a090057e6c4abb8cdfd2f690fc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06532263ea6116c41f8082ea6ace9c59') in 0.023029 seconds 
+  Import took 0.029858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/External Assets/Nacho´s Assets 2/textures/texture_building_emission.jpg
+  artifactKey: Guid(1f2798d29ed95d746ae2544e703e2419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/Nacho´s Assets 2/textures/texture_building_emission.jpg using Guid(1f2798d29ed95d746ae2544e703e2419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '406ee7a0cda5e0c2b9cd458df80239e1') in 0.024210 seconds 
+  Import took 0.031591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/External Assets/Nacho´s Assets 2/textures/texture_sky.jpeg
+  artifactKey: Guid(52de569ed44b41d4c80d4e5e6750cf69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/Nacho´s Assets 2/textures/texture_sky.jpeg using Guid(52de569ed44b41d4c80d4e5e6750cf69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f33a060ddd1a9f40d82d08df7da6ea0d') in 0.023559 seconds 
+  Import took 0.029883 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/External Assets/Nacho´s Assets 2/textures/texture_environment_opacity.jpeg
+  artifactKey: Guid(b09712408466fa84684308e768e4c128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/Nacho´s Assets 2/textures/texture_environment_opacity.jpeg using Guid(b09712408466fa84684308e768e4c128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c9cfdabd8aaee49e4d22a1962b90fce') in 0.022508 seconds 
+  Import took 0.030560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.086428 seconds.
+  path: Assets/External Assets/Nacho´s Assets 2/source/Stronghold.fbx
+  artifactKey: Guid(6905210c9611958489cb691b5bbd171c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/Nacho´s Assets 2/source/Stronghold.fbx using Guid(6905210c9611958489cb691b5bbd171c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'debfd43bb60627a6ea8e60eee7fe3c9f') in 0.145589 seconds 
+  Import took 0.154353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1084.153638 seconds.
+  path: Assets/Karting
+  artifactKey: Guid(5b37cab98afac4ca696e7a5c19dec454) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting using Guid(5b37cab98afac4ca696e7a5c19dec454) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7c68ae32b9bcbd1a2db5e8c5e7f1307') in 0.010400 seconds 
+  Import took 0.015504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023521 seconds.
+  path: Assets/Karting
+  artifactKey: Guid(5b37cab98afac4ca696e7a5c19dec454) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting using Guid(5b37cab98afac4ca696e7a5c19dec454) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7c68ae32b9bcbd1a2db5e8c5e7f1307') in 0.003770 seconds 
+  Import took 0.009610 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
